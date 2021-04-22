@@ -1,7 +1,7 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/f7c51539e67b483bb8d7749acca51d3a)](https://app.codacy.com/gh/H1M4N5HU0P/MAFIA-USERBOT/dashboard)
 [![Python 3.6](https://img.shields.io/badge/Python-3.6%20or%20newer-blue.svg)](https://www.python.org/downloads/release/python-360/)
 ![GitHub repo size](https://img.shields.io/github/repo-size/H1M4N5HU0P/MAFIABOT)
-[![HitCount](http://hits.dwyl.com/H1M4N5HU0P/MAFIA-USERBOT.svg)](http://hits.dwyl.com/H1M4N5HU0P/MAFIA-USERBOT)
+[![HitCount](http://hits.dwyl.com/H1M4N5HU0P/MAFIA-BOT.svg)](http://hits.dwyl.com/H1M4N5HU0P/MAFIA-BOT)
 [![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/H1M4N5HU0P)
 
 
