@@ -1,7 +1,7 @@
 FROM sandy1709/catuserbot:alpine
 
 #clonning repo 
-RUN git clone https://github.com/Storm-69/MEGA-STORM-HOST.git /root/userbot
+RUN git clone https://github.com/H1M4N5HU0P/MAFIA-USERBOT.git /root/userbot
 #working directory 
 WORKDIR /root/userbot
 
