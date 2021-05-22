@@ -17,6 +17,7 @@ chromedriver_autoinstaller
 cowpy
 cryptg
 colorama>=0.4.3
+cloudscraper
 dnspython
 emoji==0.6.0
 faker
@@ -43,6 +44,7 @@ patool
 psycopg2
 psycopg2-binary
 PyLyrics
+pyaztro
 pySmartDL
 pybase64>=0.4.0
 pyfiglet
