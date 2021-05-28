@@ -8,19 +8,19 @@ ELITES 2.0🔥
 
 -------------------------------------------------
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f7c51539e67b483bb8d7749acca51d3a)](https://app.codacy.com/gh/sameerpanthi/SAVAGE-2.0-bot?utm_source=github.com&utm_medium=referral&utm_content=sameerpanthi/SAVAGE-2.0-bot&utm_campaign=Badge_Grade_Settings)
-[![Size](https://img.shields.io/github/repo-size/sameerpanthi/SAVAGE-2.0-BOT?style=flat-square&color=green)](https://github.com/sameerpanthi/SAVAGE-2.0-BOT/)   
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f7c51539e67b483bb8d7749acca51d3a)](https://app.codacy.com/gh/sameerpanthi/elitebot?utm_source=github.com&utm_medium=referral&utm_content=sameerpanthi/elitebot&utm_campaign=Badge_Grade_Settings)
+[![Size](https://img.shields.io/github/repo-size/sameerpanthi/elitebot?style=flat-square&color=green)](https://github.com/sameerpanthi/elitebot/)   
 [![Python](https://img.shields.io/badge/Python-v3.9-blue)](https://www.python.org/)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/sameerpanthi/SAVAGE-2.0-BOT/graphs/commit-activity)
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/sameerpanthi/SAVAGE-2.0-BOT)   
-[![Contributors](https://img.shields.io/github/contributors/sameerpanthi/SAVAGE-2.0-BOT?style=flat-square&color=green)](https://github.com/sameerpanthi/SAVAGE-2.0-BOT/graphs/contributors)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/sameerpanthi/elitebot/graphs/commit-activity)
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/sameerpanthi/elitebot)   
+[![Contributors](https://img.shields.io/github/contributors/sameerpanthi/elitebot?style=flat-square&color=green)](https://github.com/sameerpanthi/elitebot/graphs/contributors)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
-[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/sameerpanthi/SAVAGE-2.0-BOT/blob/main/LICENSE)
-[![Sparkline](https://stars.medv.io/Teamultroid/Ultroid.svg)](https://stars.medv.io/sameerpanthi/SAVAGE-2.0-BOT)
+[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/sameerpanthi/elitebot/blob/main/LICENSE)
+[![Sparkline](https://stars.medv.io/sameerpanthi/elitebot)](https://stars.medv.io/sameerpanthi/elitebot)
 
 -------------------------------------------------
 
-~ 𝐁𝐄𝐒𝐓 𝐀𝐍𝐃 𝐌𝐎𝐒𝐓 𝐀𝐖𝐀𝐈𝐓𝐄𝐃 𝐔𝐒𝐄𝐑𝐁𝐎𝐓 𝐓𝐎 𝐌𝐀𝐍𝐀𝐆𝐄 𝐘𝐎𝐔𝐑 𝐀𝐂𝐂𝐎𝐔𝐍𝐓 𝐖𝐈𝐓𝐇 𝐋𝐎𝐀𝐃 𝐎𝐅 𝐏𝐋𝐔𝐆𝐆𝐈𝐍𝐒 𝐀𝐍𝐃 𝐋𝐔𝐗𝐔𝐑𝐈𝐎𝐔𝐒 𝐅𝐄𝐀𝐓𝐔𝐑𝐄𝐒 𝐂𝐎𝐌𝐏𝐀𝐑𝐄𝐃 𝐓𝐎 𝐀𝐍𝐘 𝐎𝐓𝐇𝐄𝐑 𝐁𝐎𝐓 𝐀𝐍𝐃 𝐀𝐋𝐒𝐎 𝐎𝐍𝐄 𝐎𝐅 𝐓𝐇𝐄 𝐌𝐎𝐒𝐓 𝐀𝐃𝐕𝐀𝐍𝐂𝐄𝐃 𝐁𝐎𝐓 𝐖𝐈𝐓𝐇 𝟑𝟏𝟎+ 𝐏𝐋𝐔𝐆𝐆𝐈𝐍𝐒 𝐀𝐍𝐃 𝐖𝐈𝐓𝐇 𝐁𝐄𝐒𝐓 𝐒𝐄𝐂𝐔𝐑𝐈𝐓𝐘 𝐅𝐄𝐀𝐓𝐔𝐑𝐄 .
+~ 𝐁𝐄𝐒𝐓 𝐀𝐍𝐃 𝐌𝐎𝐒𝐓 𝐀𝐖𝐀𝐈𝐓𝐄𝐃 𝐔𝐒𝐄𝐑𝐁𝐎𝐓 𝐓𝐎 𝐌𝐀𝐍𝐀𝐆𝐄 𝐘𝐎𝐔𝐑 𝐀𝐂𝐂𝐎𝐔𝐍𝐓 𝐖𝐈𝐓𝐇 𝐋𝐎𝐀𝐃 𝐎𝐅 𝐏𝐋𝐔𝐆𝐆𝐈𝐍𝐒 𝐀𝐍𝐃 𝐋𝐔𝐗𝐔𝐑𝐈𝐎𝐔𝐒 𝐅𝐄𝐀𝐓𝐔𝐑𝐄𝐒 𝐂𝐎𝐌𝐏𝐀𝐑𝐄𝐃 𝐓𝐎 𝐀𝐍𝐘 𝐎𝐓𝐇𝐄𝐑 𝐁𝐎𝐓 𝐀𝐍𝐃 𝐀𝐋𝐒𝐎 𝐎𝐍𝐄 𝐎𝐅 𝐓𝐇𝐄 𝐌𝐎𝐒𝐓 𝐀𝐃𝐕𝐀𝐍𝐂𝐄𝐃 𝐁𝐎𝐓 𝐖𝐈𝐓𝐇 𝐏𝐋𝐔𝐆𝐆𝐈𝐍𝐒 𝐀𝐍𝐃 𝐖𝐈𝐓𝐇 𝐁𝐄𝐒𝐓 𝐒𝐄𝐂𝐔𝐑𝐈𝐓𝐘 𝐅𝐄𝐀𝐓𝐔𝐑𝐄 .
 
 -------------------------------------------------
 
@@ -37,8 +37,8 @@ ELITES 2.0🔥
 
 ## Join our Support Channel and Group regrading bug fixes
 
-<a href="https://t.me/joinchat/0KCyT0MHyAhmMmRl"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
-<a href="https://t.me/joinchat/qCIk-af6VW1kNDll"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
+<a href="https://t.me/savage_techy"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
+<a href="https://t.me/elites_userbot"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
 
 -------------------------------------------------
 
