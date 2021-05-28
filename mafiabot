@@ -4,12 +4,12 @@
 _get_repolink () {
     local regex
     regex='(https?)://github.com/.+/.+'
-    if [[ $MAFIA_REPO == "mafiabot" ]]
+    if [[ $MAFIA_REPO == "elitebot" ]]
     then
-        echo "aHR0cHM6Ly9naXRodWIuY29tL0gxTTRONUhVMFAvTUFGSUEtVVNFUkJPVC9hcmNoaXZlL21hc3Rlci56aXA=" | base64 -d
-    elif [[ $MAFIA_REPO == "MAFIABOT" ]]
+        echo "aHR0cHM6Ly9naXRodWIuY29tL3NhbWVlcnBhbnRoaS9lbGl0ZXVzZXJib3QvYXJjaGl2ZS9tYXN0ZXIuemlw" | base64 -d
+    elif [[ $MAFIA_REPO == "ELITEBOT" ]]
     then
-        echo "aHR0cHM6Ly9naXRodWIuY29tL0gxTTRONUhVMFAvTUFGSUEtVVNFUkJPVC9hcmNoaXZlL21hc3Rlci56aXA=" | base64 -d
+        echo "aHR0cHM6Ly9naXRodWIuY29tL3NhbWVlcnBhbnRoaS9lbGl0ZXVzZXJib3QvYXJjaGl2ZS9tYXN0ZXIuemlw" | base64 -d
     elif [[ $MAFIA_REPO =~ $regex ]]
     then
         if [[ $MAFIA_REPO_BRANCH ]]
@@ -19,7 +19,7 @@ _get_repolink () {
             echo "${MAFIA_REPO}/archive/master.zip"
         fi
     else
-        echo "aHR0cHM6Ly9naXRodWIuY29tL0gxTTRONUhVMFAvTUFGSUEtVVNFUkJPVC9hcmNoaXZlL21hc3Rlci56aXA=" | base64 -d
+        echo "aHR0cHM6Ly9naXRodWIuY29tL3NhbWVlcnBhbnRoaS9lbGl0ZXVzZXJib3QvYXJjaGl2ZS9tYXN0ZXIuemlw" | base64 -d
     fi
 }
 
@@ -37,11 +37,11 @@ _set_bot () {
     rm -rf "$zippath"
     sleep 5
     cd $MAFIAPATH
-    echo "    Starting MafiaBot    "
+    echo "    Starting elites bot   "
     echo "
                           ╔═╦═╦══╦══╦══╦══╦══╦═╦══╗
-                          ║║║║║╔╗║═╦╩║║╣╔╗║╔╗║║╠╗╔╝
-                          ║║║║║╠╣║╔╝╔║║╣╠╣║╔╗║║║║║
+                          
+                         Elites bot       elites bot
                           ╚╩═╩╩╝╚╩╝─╚══╩╝╚╩══╩═╝╚╝
     "
 
