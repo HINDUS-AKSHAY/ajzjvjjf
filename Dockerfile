@@ -1,7 +1,7 @@
 FROM sandy1709/catuserbot:alpine
 
 #clonning repo 
-RUN git clone https://github.com/sameerpanthi/eliteuserbot.git /root/userbot
+RUN git clone https://github.com/T3AM-ELITES/ELITES-SPAM-BOT.git /root/userbot
 #working directory 
 WORKDIR /root/userbot
 
