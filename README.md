@@ -43,9 +43,9 @@
  - 𝚆𝙸𝚃𝙷 𝚃𝙷𝙴 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 𝙾𝙵 𝙳3𝚅𝙸𝙻𝙱𝙾𝚃 𝙰𝙽𝙳 𝚂𝙰𝚅𝙰𝙶𝙴𝙱𝙾𝚃 𝙾𝚆𝙽𝙴𝚁.......
 <p align="left">
 ┏━━━━━━━━━━━━━━━━━━━ 
-┣•➳➠ [𝙳3𝙺𝚁𝙸𝚂𝙷](https://t.me/D3_krish) </p>
-┣•➳➠ [𝚂𝙰𝙼𝙴𝙴𝚁](https://t.me/SAMEER_795) </p>
-┣•➳➠ [𝚃𝙴𝙰𝙼 𝙴𝙻𝙸𝚃𝙴](https://t.me/ELites_userbot) </p>
+┣•➳➠ [𝙳3𝙺𝚁𝙸𝚂𝙷](https://t.me/D3_krish) 
+┣•➳➠ [𝚂𝙰𝙼𝙴𝙴𝚁](https://t.me/SAMEER_795) 
+┣•➳➠ [𝚃𝙴𝙰𝙼 𝙴𝙻𝙸𝚃𝙴](https://t.me/ELites_userbot) 
 ┗━━━━━━━━━━━━━━━━━━━
  </p>
 </details>
