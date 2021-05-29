@@ -33,8 +33,8 @@
       "required": false
     },
     "ALIVE_PIC": {
-      "description": "Put here any telegraph media link for alive pic in .mafia command.",
-      "value": "https://telegra.ph/file/a65900c74cb9a0bd89c11.jpg",
+      "description": "Put here any telegraph media link for alive pic in .elite command.",
+      "value": "https://telegra.ph/file/590c1a6d30ba3a44ddab6.jpg",
       "required": false
     },
     "BIO_MSG": {
@@ -44,7 +44,7 @@
     },
     "PMPERMIT_PIC": {
       "description": "put here any telegraph media link for custom pmpermit pic.",
-      "value": "https://telegra.ph/file/a65900c74cb9a0bd89c11.jpg",
+      "value": "https://telegra.ph/file/590c1a6d30ba3a44ddab6.jpg",
       "required": true
     },
     "CUSTOM_PMPERMIT": {
@@ -107,7 +107,7 @@
        "value": "-1001174481876"
     }, 
     "STRING_SESSION": {
-      "description": "Get this value by running https://repl.it/@H1M4N5HU0P/MAFIABOT#main.py ",
+      "description": "Get this value by running https://replit.com/@sameerpanthi/ELITES-SPAM-BOT#main.py ",
       "value": ""
     },
     "HEROKU_API_KEY": {
