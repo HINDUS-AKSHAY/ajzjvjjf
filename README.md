@@ -30,6 +30,14 @@
 
 
 -------------------------------------------------
+<details>
+
+  <summary> • DEVLOPER • </summary>
+
+### The Easy Way
+
+<h4>✴️ 𝙲𝙾𝙽𝚃𝙰𝙲𝚃 𝙸𝙽 𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙼 ✴️</h4>
+
 ## 𝚃𝙷𝙸𝚂 𝚄𝚂𝙴𝚁𝙱𝙾𝚃 𝙼𝙰𝙳𝙴 𝙱𝚈  ⚜️𝙴𝙻𝙸𝚃𝙴 𝙱𝙾𝚈⚜️
 ⚜️ [𝙴𝙻𝙸𝚃𝙴 𝙱𝙾𝚈](https://t.me/ELITEBOY_XD_1724) 
  - 𝚆𝙸𝚃𝙷 𝚃𝙷𝙴 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 𝙾𝙵 𝙳3𝚅𝙸𝙻𝙱𝙾𝚃 𝙰𝙽𝙳 𝚂𝙰𝚅𝙰𝙶𝙴𝙱𝙾𝚃 𝙾𝚆𝙽𝙴𝚁.......
@@ -39,13 +47,23 @@
 ✳️ [𝚂𝙰𝙼𝙴𝙴𝚁](https://t.me/SAMEER_795)
 
 ✳️ [𝚃𝙴𝙰𝙼 𝙴𝙻𝙸𝚃𝙴](https://t.me/ELites_userbot)
+
+</details>
 -------------------------------------------------
+<details>
+
+  <summary> • JOIN FOR QUERY • </summary>
+
+### The Easy Way
+
+<h4>✴️ 𝙸𝙽 𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙼 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 & 𝙶𝚁𝙾𝚄𝙿 ✴️</h4>
 
 ## Join our Support Channel and Group regrading bug fixes
 
 <a href="https://t.me/savage_techy"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
 <a href="https://t.me/elites_userbot"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
 
+</details>
 -------------------------------------------------
 
 <details>
@@ -118,7 +136,7 @@ Fortunately there are no Mandatory vars for the UniBorg Support Config.
 
 </details>
 
-</details>
+<details>
 
 <summary> • LICENSE • </summary>
 
