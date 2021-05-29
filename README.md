@@ -18,18 +18,18 @@
 [![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/T3AM-ELITES/ELITES-SPAM-BOT/blob/main/LICENSE)
 [![Sparkline](https://stars.medv.io/T3AM-ELITES/ELITES-SPAM-BOT)](https://stars.medv.io/T3AM-ELITES/ELITES-SPAM-BOT)
 
--------------------------------------------------
+
 
 ~ 𝐁𝐄𝐒𝐓 𝐀𝐍𝐃 𝐌𝐎𝐒𝐓 𝐀𝐖𝐀𝐈𝐓𝐄𝐃 𝐔𝐒𝐄𝐑𝐁𝐎𝐓 𝐓𝐎 𝐌𝐀𝐍𝐀𝐆𝐄 𝐘𝐎𝐔𝐑 𝐀𝐂𝐂𝐎𝐔𝐍𝐓 𝐖𝐈𝐓𝐇 𝐋𝐎𝐀𝐃 𝐎𝐅 𝐏𝐋𝐔𝐆𝐆𝐈𝐍𝐒 𝐀𝐍𝐃 𝐋𝐔𝐗𝐔𝐑𝐈𝐎𝐔𝐒 𝐅𝐄𝐀𝐓𝐔𝐑𝐄𝐒 𝐂𝐎𝐌𝐏𝐀𝐑𝐄𝐃 𝐓𝐎 𝐀𝐍𝐘 𝐎𝐓𝐇𝐄𝐑 𝐁𝐎𝐓 𝐀𝐍𝐃 𝐀𝐋𝐒𝐎 𝐎𝐍𝐄 𝐎𝐅 𝐓𝐇𝐄 𝐌𝐎𝐒𝐓 𝐀𝐃𝐕𝐀𝐍𝐂𝐄𝐃 𝐁𝐎𝐓 𝐖𝐈𝐓𝐇 𝐏𝐋𝐔𝐆𝐆𝐈𝐍𝐒 𝐀𝐍𝐃 𝐖𝐈𝐓𝐇 𝐁𝐄𝐒𝐓 𝐒𝐄𝐂𝐔𝐑𝐈𝐓𝐘 𝐅𝐄𝐀𝐓𝐔𝐑𝐄 .
 
--------------------------------------------------
+
 
 
 ## STATUS OF THIS BOTS 
 <p align="left"><a href="https://github.com/T3AM-ELITES/ELITES-SPAM-BOT/network/members"><img src="https://img.shields.io/github/forks/T3AM-ELITES/ELITES-SPAM-BOT?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/T3AM-ELITES/ELITES-SPAM-BOT/stargazers"><img src="https://img.shields.io/github/stars/T3AM-ELITES/ELITES-SPAM-BOT?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/T3AM-ELITES/ELITES-SPAM-BOT"></a><p align="left"><a href="https://github.com/T3AM-ELITES/ELITES-SPAM-BOT?"><img src="https://img.shields.io/github/last-commit/T3AM-ELITES/ELITES-SPAM-BOT?style=plastic"></a>
 
 
--------------------------------------------------
+
 <details>
 
   <summary> • DEVLOPER • </summary>
@@ -41,15 +41,13 @@
 ## 𝚃𝙷𝙸𝚂 𝚄𝚂𝙴𝚁𝙱𝙾𝚃 𝙼𝙰𝙳𝙴 𝙱𝚈  ⚜️𝙴𝙻𝙸𝚃𝙴 𝙱𝙾𝚈⚜️
 ⚜️ [𝙴𝙻𝙸𝚃𝙴 𝙱𝙾𝚈](https://t.me/ELITEBOY_XD_1724) 
  - 𝚆𝙸𝚃𝙷 𝚃𝙷𝙴 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 𝙾𝙵 𝙳3𝚅𝙸𝙻𝙱𝙾𝚃 𝙰𝙽𝙳 𝚂𝙰𝚅𝙰𝙶𝙴𝙱𝙾𝚃 𝙾𝚆𝙽𝙴𝚁.......
-
-✳️ [𝙳3𝙺𝚁𝙸𝚂𝙷](https://t.me/D3_krish)
-
-✳️ [𝚂𝙰𝙼𝙴𝙴𝚁](https://t.me/SAMEER_795)
-
-✳️ [𝚃𝙴𝙰𝙼 𝙴𝙻𝙸𝚃𝙴](https://t.me/ELites_userbot)
-
+┏━━━━━━━━━━━━━━━━━━━
+┣•➳➠ [𝙳3𝙺𝚁𝙸𝚂𝙷](https://t.me/D3_krish)
+┣•➳➠ [𝚂𝙰𝙼𝙴𝙴𝚁](https://t.me/SAMEER_795)
+┣•➳➠ [𝚃𝙴𝙰𝙼 𝙴𝙻𝙸𝚃𝙴](https://t.me/ELites_userbot)
+┗━━━━━━━━━━━━━━━━━━━
 </details>
--------------------------------------------------
+
 <details>
 
   <summary> • JOIN FOR QUERY • </summary>
@@ -64,7 +62,7 @@
 <a href="https://t.me/elites_userbot"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
 
 </details>
--------------------------------------------------
+
 
 <details>
 
@@ -78,14 +76,13 @@
 <a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FT3AM-ELITES%2FELITES-SPAM-BOT&template=https%3A%2F%2Fgithub.com%2FT3AM-ELITES%2FELITES-SPAM-BOT" rel="nofollow" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"><img alt="Deploy" data-canonical-src="https://www.herokucdn.com/deploy/button.svg" src="https://camo.githubusercontent.com/83b0e95b38892b49184e07ad572c94c8038323fb/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667" style="border-style: none; box-sizing: initial; max-width: 100%;" /></a></div>
  
 
-------------------------------------------------
 
 TAKE STRING FROM HERE -
 
 [![REPL](https://repl.it/badge/github/spandey112/SensibleUserbot)](https://replit.com/@sameerpanthi/ELITES-SPAM-BOT#main.py)
 
 </details>  
--------------------------------------------------
+
 
 
 CREIDTS -
