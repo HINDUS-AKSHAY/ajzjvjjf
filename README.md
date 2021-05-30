@@ -40,7 +40,7 @@ CREATOR - [KRISH](t.me/D3_krish)
 
 ## Join our Support Channel and Group regrading bug fixes
 
-<a href="https://t.me/savage_techy"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
+<a href="https://t.me/elite_bot_official"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
 <a href="https://t.me/elites_userbot"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
 
 -------------------------------------------------
