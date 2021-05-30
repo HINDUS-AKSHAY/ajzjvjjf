@@ -35,7 +35,6 @@
 
 OWNER - [ELITE BOY](t.me/ELITE_BOY_1)
 CREATOR -[SAMEER](https://t.me/SAMEER_795)
-CREATOR - [KRISH](t.me/D3_krish)
 -------------------------------------------------
 
 ## Join our Support Channel and Group regrading bug fixes
