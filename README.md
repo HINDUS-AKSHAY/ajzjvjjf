@@ -33,9 +33,9 @@
 -------------------------------------------------
 ## DEVELOPERS
 
-[乇ㄥ|ㄒ乇 乃ㄖㄚ](t.me/ELITE_BOY_1),
-[丂卂爪乇乇尺](https://t.me/SAMEER_795),
-[Ҝ尺|丂卄](t.me/D3_krish),
+OWNER - [乇ㄥ|ㄒ乇 乃ㄖㄚ](t.me/ELITE_BOY_1)
+CREATOR -[丂卂爪乇乇尺](https://t.me/SAMEER_795)
+CREATOR - [Ҝ尺|丂卄](t.me/D3_krish)
 -------------------------------------------------
 
 ## Join our Support Channel and Group regrading bug fixes
