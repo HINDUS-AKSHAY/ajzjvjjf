@@ -30,134 +30,36 @@
 
 
 
-<details>
+-------------------------------------------------
+## DEVELOPERS
 
-  <summary> • DEVLOPER • </summary>
-
-<h4>✴️ 𝙲𝙾𝙽𝚃𝙰𝙲𝚃 𝙸𝙽 𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙼 ✴️</h4>
-
- - 𝚃𝙷𝙸𝚂 𝚄𝚂𝙴𝚁𝙱𝙾𝚃 𝙼𝙰𝙳𝙴 𝙱𝚈 [𝙴𝙻𝙸𝚃𝙴 𝙱𝙾𝚈](https://t.me/ELITEBOY_XD_1724) 
- - 𝚆𝙸𝚃𝙷 𝚃𝙷𝙴 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 𝙾𝙵 𝙳3𝚅𝙸𝙻𝙱𝙾𝚃 𝙰𝙽𝙳 𝚂𝙰𝚅𝙰𝙶𝙴𝙱𝙾𝚃 𝙾𝚆𝙽𝙴𝚁.......
-
-
-➳➠ [𝙳3𝙺𝚁𝙸𝚂𝙷](https://t.me/D3_krish) 
-
-➳➠ [𝚂𝙰𝙼𝙴𝙴𝚁](https://t.me/SAMEER_795) 
- 
-
-</details>
-
-<details>
-
-  <summary> • JOIN FOR QUERY • </summary>
-
-### The Easy Way
-
-<h4>✴️ 𝙸𝙽 𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙼 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 & 𝙶𝚁𝙾𝚄𝙿 ✴️</h4>
+[乇ㄥ|ㄒ乇 乃ㄖㄚ](t.me/ELITE_BOY_1)
+[丂卂爪乇乇尺](https://t.me/SAMEER_795)
+[Ҝ尺|丂卄](t.me/D3_krish)
+-------------------------------------------------
 
 ## Join our Support Channel and Group regrading bug fixes
 
 <a href="https://t.me/savage_techy"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
 <a href="https://t.me/elites_userbot"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
 
-</details>
+-------------------------------------------------
+
+## FOR DEPLOY BOT 
 
 
-<details>
+<a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fsameerpanthi%2Felitebot&template=https%3A%2F%2Fgithub.com%2Fsameerpanthi%2Felitebot" rel="nofollow" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"><img alt="Deploy" data-canonical-src="https://www.herokucdn.com/deploy/button.svg" src="https://camo.githubusercontent.com/83b0e95b38892b49184e07ad572c94c8038323fb/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667" style="border-style: none; box-sizing: initial; max-width: 100%;" /></a></div>
 
-  <summary> • INSTALLING • </summary>
-
-### The Easy Way
-
-<h4>✴️ DEPLOY TO HEROKU ✴️</h4>
-
-
-<a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FT3AM-ELITES%2FELITES-SPAM-BOT&template=https%3A%2F%2Fgithub.com%2FT3AM-ELITES%2FELITES-SPAM-BOT" rel="nofollow" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"><img alt="Deploy" data-canonical-src="https://www.herokucdn.com/deploy/button.svg" src="https://camo.githubusercontent.com/83b0e95b38892b49184e07ad572c94c8038323fb/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667" style="border-style: none; box-sizing: initial; max-width: 100%;" /></a></div>
- 
-
+------------------------------------------------
 
 TAKE STRING FROM HERE -
 
-[![REPL](https://repl.it/badge/github/spandey112/SensibleUserbot)](https://replit.com/@sameerpanthi/ELITES-SPAM-BOT#main.py)
-
-</details>  
-
+[![REPL](https://repl.it/badge/github/spandey112/SensibleUserbot)](https://replit.com/@sameerpanthi/SAVAGE-BOT#main.py)
+    
+-------------------------------------------------
 
 
 CREIDTS -
 
 # [MAFIA BOT](https://github.com/H1M4N5HU0P/MAFIA-USERBOT)
 
-<details>
-
-  <summary> • THE NORMAL WAY • </summary>
-
-Simply clone the repository and run the main file:
-```sh
-git clone https://github.com/kartikrajofficial/ELITE-SPAM-BOT.git
-cd ELITE-BOT
-virtualenv -p /usr/bin/python3 venv
-. ./venv/bin/activate
-pip install -r requirements.txt
-# <Create local_config.py with variables as given below>
-python3 -m userbot
-```
-
-An example `local_config.py` file could be:
-
-**Not All of the variables are mandatory**
-
-__The Userbot should work by setting only the first two variables__
-
-```python3
-from heroku_config import Var
-
-class Development(Var):
-  APP_ID = 6
-  API_HASH = "eb06d4abfb49dc3eeb1aeb98ae0f581e"
-```
-
-</details>
-<details>
-
-  <summary> • UNIBORG CONFIGURATION • </summary>
-
-The UniBorg Config is situated in `userbot/uniborgConfig.py`.
-
-**Heroku Configuration**
-Simply just leave the Config as it is.
-
-**Local Configuration**
-Fortunately there are no Mandatory vars for the UniBorg Support Config.
-
-</details>
-
-<details>
-
-<summary> • LICENSE • </summary>
-
-![](https://www.gnu.org/graphics/gplv3-or-later.png)
-
-Copyright (C) 2021 TEAM ELITE
-
-Poject [⚜️ELITEBOT⚜️](https://github.com/T3AM-ELITES/ELITES-SPAM-BOT/blob) is free software: you can redistribute it and/or modify
-
-it under the terms of the GNU General Public License as published by
-
-the Free Software Foundation, either version 3 of the License, or
-
-(at your option) any later version.
-
-This program is distributed in the hope that it will be useful,
-
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-
-GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License
-
-along with this program. If not, see <https://www.gnu.org/licenses/>.
-
-</details>
