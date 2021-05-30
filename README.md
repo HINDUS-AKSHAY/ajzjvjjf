@@ -43,8 +43,7 @@
 ➳➠ [𝙳3𝙺𝚁𝙸𝚂𝙷](https://t.me/D3_krish) 
 
 ➳➠ [𝚂𝙰𝙼𝙴𝙴𝚁](https://t.me/SAMEER_795) 
-
-➳➠ [𝚃𝙴𝙰𝙼 𝙴𝙻𝙸𝚃𝙴](https://t.me/ELites_userbot) 
+ 
 
 </details>
 
