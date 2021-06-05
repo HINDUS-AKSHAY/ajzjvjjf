@@ -1,4 +1,4 @@
-⚔️𝐄𝐋𝐈𝐓𝐄 𝐒𝐏𝐀𝐌 𝐔𝐒𝐄𝐑𝐁𝐎𝐓⚔️
+⚔️SAVAGE SPAM USERBOT⚔️
 
 
 
