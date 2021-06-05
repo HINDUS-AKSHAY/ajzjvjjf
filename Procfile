@@ -1,1 +1,1 @@
-worker: bash elites-spam-bot
+worker: bash savage-spam-bot
