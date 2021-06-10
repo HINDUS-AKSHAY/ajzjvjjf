@@ -32,10 +32,10 @@
 
 -------------------------------------------------
 
-𝙲𝚁𝙴𝙰𝚃𝙾𝚁 -[丂卂爪乇乇尺](https://t.me/SAMEER_795)
+𝙲𝚁𝙴𝙰𝚃𝙾𝚁 -[𝚂𝙰𝙼𝙴𝙴𝚁](https://t.me/SAMEER_795)
 -------------------------------------------------
 
-## 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 𝙶𝚁𝙿 𝙰𝙽𝙳 𝙲𝙷𝙰𝙽𝙽𝙴𝙻𝚂
+## 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 
 
 <a href="https://t.me/"SAVAGE_techy><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
 <a href="https://t.me/SAVAGE_SPAM_GROUP"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
