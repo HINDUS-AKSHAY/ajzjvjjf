@@ -16,7 +16,6 @@
 [![Contributors](https://img.shields.io/github/contributors/T3AM-ELITES/ELITES-SPAM-BOT?style=flat-square&color=green)](https://github.com/T3AM-ELITES/ELITES-SPAM-BOT/graphs/contributors)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
 [![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/T3AM-ELITES/ELITES-SPAM-BOT/blob/main/LICENSE)
-[![Sparkline](https://stars.medv.io/T3AM-ELITES/ELITES-SPAM-BOT)](https://stars.medv.io/T3AM-ELITES/ELITES-SPAM-BOT)
 
 
 
