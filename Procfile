@@ -1,1 +1,1 @@
-worker: bash savage-spam-bot
+worker: bash DeadlyBot
