@@ -18,16 +18,11 @@
 [![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/T3AM-ELITES/ELITES-SPAM-BOT/blob/main/LICENSE)
 
 
-
-~ 𝐁𝐄𝐒𝐓 𝐀𝐍𝐃 𝐌𝐎𝐒𝐓 𝐀𝐖𝐀𝐈𝐓𝐄𝐃 𝐔𝐒𝐄𝐑𝐁𝐎𝐓 𝐓𝐎 𝐌𝐀𝐍𝐀𝐆𝐄 𝐘𝐎𝐔𝐑 𝐀𝐂𝐂𝐎𝐔𝐍𝐓 𝐖𝐈𝐓𝐇 𝐋𝐎𝐀𝐃 𝐎𝐅 𝐏𝐋𝐔𝐆𝐆𝐈𝐍𝐒 𝐀𝐍𝐃 𝐋𝐔𝐗𝐔𝐑𝐈𝐎𝐔𝐒 𝐅𝐄𝐀𝐓𝐔𝐑𝐄𝐒 𝐂𝐎𝐌𝐏𝐀𝐑𝐄𝐃 𝐓𝐎 𝐀𝐍𝐘 𝐎𝐓𝐇𝐄𝐑 𝐁𝐎𝐓 𝐀𝐍𝐃 𝐀𝐋𝐒𝐎 𝐎𝐍𝐄 𝐎𝐅 𝐓𝐇𝐄 𝐌𝐎𝐒𝐓 𝐀𝐃𝐕𝐀𝐍𝐂𝐄𝐃 𝐁𝐎𝐓 𝐖𝐈𝐓𝐇 𝐏𝐋𝐔𝐆𝐆𝐈𝐍𝐒 𝐀𝐍𝐃 𝐖𝐈𝐓𝐇 𝐁𝐄𝐒𝐓 𝐒𝐄𝐂𝐔𝐑𝐈𝐓𝐘 𝐅𝐄𝐀𝐓𝐔𝐑𝐄 .
-
-
-
+~ 𝙱𝙴𝚂𝚃 𝙰𝙽𝙳 𝙼𝙾𝚂𝚃 𝙰𝚆𝙰𝙸𝚃𝙴𝚂 𝚄𝚂𝙴𝚁𝙱𝙾𝚃 𝚃𝙾 𝙼𝙰𝙽𝙽𝙰𝙶𝙴 𝚈𝙾𝚄𝚁 𝙰𝙲𝙲𝙾𝚄𝙽𝚃 𝚆𝙸𝚃𝙷 𝙻𝚄𝚇𝚄𝚁𝙸𝙾𝚄𝚂 𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂 𝙲𝙾𝙼𝙿𝙰𝚁𝙴𝙳 𝚃𝙾 𝙰𝙽𝚈 𝙾𝚃𝙷𝙴𝚁 𝙱𝙾𝚃𝚂..𝙰𝙻𝚂𝙾 𝚆𝙸𝚃𝙷 𝚂𝙴𝙲𝚄𝚁𝚄𝚃𝚈 𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂
+----
 
 ## 𝚂𝚃𝙰𝚃𝚄𝚂 𝙾𝙵 𝚃𝙷𝙸𝚂 𝙱𝙾𝚃 
-<p align="left"><a href="https://github.com/T3AM-ELITES/ELITES-SPAM-BOT/network/members"><img src="https://img.shields.io/github/forks/T3AM-ELITES/ELITES-SPAM-BOT?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/T3AM-ELITES/ELITES-SPAM-BOT/stargazers"><img src="https://img.shields.io/github/stars/T3AM-ELITES/ELITES-SPAM-BOT?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/T3AM-ELITES/ELITES-SPAM-BOT"></a><p align="left"><a href="https://github.com/T3AM-ELITES/ELITES-SPAM-BOT?"><img src="https://img.shields.io/github/last-commit/T3AM-ELITES/ELITES-SPAM-BOT?style=plastic"></a>
-
-
+<p align="left"><a href="https://github.com/T3AM-ELITES/ELITES-SPAM-BOT/network/members"><img src="https://img.shields.io/github/forks/T3AM-ELITES/ELITES-SPAM-BOT?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/T3AM-ELITES/ELITES-SPAM-BOT/stargazers"><img src="https://img.shields.io/github/stars/T3AM-ELITES/ELITES-SPAM-BOT?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/T3AM-ELITES/ELITES-SPAM-BOT"></a><p align="left"><a href="https://github.com/T3AM-ELITES/ELITES-SPAM-BOT?"><img src="https://img.shields.io/github/last-commit/T3AM-ELITES/ELITES-SPAM-BOT?style=plastic"></
 
 -------------------------------------------------
 
