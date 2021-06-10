@@ -4,29 +4,29 @@
 _get_repolink () {
     local regex
     regex='(https?)://github.com/.+/.+'
-    if [[ $MAFIA_REPO == "SAVAGE-SPAM-BOT" ]]
+    if [[ $DEADLY_REPO == "DEADLY-OP-BOT" ]]
     then
-        echo "aHR0cHM6Ly9naXRodWIuY29tL3NhbWVlcnBhbnRoaS9TQVZBR0UtU1BBTS1VU0VSQk9UL2FyY2hpdmUvbWFzdGVyLnppcA==" | base64 -d
-    elif [[ $MAFIA_REPO == "SAVAGE-SPAM-BOT" ]]
+        echo "aHR0cHM6Ly9naXRodWIuY29tL3NhbWVlcnBhbnRoaS9kZWFkbHktb3AtdXNlcmJvdC9hcmNoaXZlL21hc3Rlci56aXA=" | base64 -d
+    elif [[ $DEADLY_REPO == "DEADLY-OP-BOT" ]]
     then
-        echo "aHR0cHM6Ly9naXRodWIuY29tL3NhbWVlcnBhbnRoaS9TQVZBR0UtU1BBTS1VU0VSQk9UL2FyY2hpdmUvbWFzdGVyLnppcA==" | base64 -d
-    elif [[ $MAFIA_REPO =~ $regex ]]
+        echo "aHR0cHM6Ly9naXRodWIuY29tL3NhbWVlcnBhbnRoaS9kZWFkbHktb3AtdXNlcmJvdC9hcmNoaXZlL21hc3Rlci56aXA=" | base64 -d
+    elif [[ $DEADLY_REPO =~ $regex ]]
     then
-        if [[ $MAFIA_REPO_BRANCH ]]
+        if [[ $DEADLY_REPO_BRANCH ]]
         then
-            echo "${MAFIA_REPO}/archive/${MAFIA_REPO_BRANCH}.zip"
+            echo "${DEADLY_REPO}/archive/${MAFIA_REPO_BRANCH}.zip"
         else
-            echo "${MAFIA_REPO}/archive/master.zip"
+            echo "${DEADLY_REPO}/archive/master.zip"
         fi
     else
-        echo "aHR0cHM6Ly9naXRodWIuY29tL3NhbWVlcnBhbnRoaS9TQVZBR0UtU1BBTS1VU0VSQk9UL2FyY2hpdmUvbWFzdGVyLnppcA==" | base64 -d
+        echo "aHR0cHM6Ly9naXRodWIuY29tL3NhbWVlcnBhbnRoaS9kZWFkbHktb3AtdXNlcmJvdC9hcmNoaXZlL21hc3Rlci56aXA=" | base64 -d
     fi
 }
 
 
 _set_bot () {
     local zippath
-    zippath="mafiabot.zip"
+    zippath="DeadlyBot.zip"
     echo "  Downloading source code ..."
     wget -q $(_get_repolink) -O "$zippath"
     echo "  Unpacking Data ..."
@@ -36,12 +36,12 @@ _set_bot () {
     echo "  Cleaning ..."
     rm -rf "$zippath"
     sleep 5
-    cd $MAFIAPATH
-    echo "    Starting elites bot   "
+    cd $DEADLYPATH
+    echo "    Starting  DeadlyBot  "
     echo "
                           ╔═╦═╦══╦══╦══╦══╦══╦═╦══╗
                           
-                                  SAVAGE SPAM BOT
+                                  Deadly Bot
                           ╚╩═╩╩╝╚╩╝─╚══╩╝╚╩══╩═╝╚╝
     "
 
