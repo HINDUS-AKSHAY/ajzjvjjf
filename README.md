@@ -32,13 +32,14 @@
 
 -------------------------------------------------
 
-𝙲𝚁𝙴𝙰𝚃𝙾𝚁 -[𝚂𝙰𝙼𝙴𝙴𝚁](https://t.me/SAMEER_795)
+## 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 
+                          
+<a href="https://t.me/deadly_techy><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
+<a href="https://t.me/deadly_userbot"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
+
 -------------------------------------------------
 
-## 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 
-
-<a href="https://t.me/"SAVAGE_techy><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
-<a href="https://t.me/SAVAGE_SPAM_GROUP"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
+𝙲𝚁𝙴𝙰𝚃𝙾𝚁 -[𝚂𝙰𝙼𝙴𝙴𝚁](https://t.me/SAMEER_795)
 
 -------------------------------------------------
 
