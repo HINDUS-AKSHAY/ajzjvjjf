@@ -39,10 +39,9 @@ _set_bot () {
     cd $DEADLYPATH
     echo "    Starting  DeadlyBot  "
     echo "
-                          ╔═╦═╦══╦══╦══╦══╦══╦═╦══╗
-                          
+
                                   Deadly Bot
-                          ╚╩═╩╩╝╚╩╝─╚══╩╝╚╩══╩═╝╚╝
+                          
     "
 
     python3 ./setup/updater.py ./requirements.txt requirements.txt
