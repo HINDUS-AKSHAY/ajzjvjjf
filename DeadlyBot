@@ -4,19 +4,19 @@
 _get_repolink () {
     local regex
     regex='(https?)://github.com/.+/.+'
-    if [[ $DEADLY_REPO == "DEADLY-OP-BOT" ]]
+    if [[ $MAFIA_REPO == "DEADLY-OP-BOT" ]]
     then
         echo "aHR0cHM6Ly9naXRodWIuY29tL3NhbWVlcnBhbnRoaS9kZWFkbHktb3AtdXNlcmJvdC9hcmNoaXZlL21hc3Rlci56aXA=" | base64 -d
-    elif [[ $DEADLY_REPO == "DEADLY-OP-BOT" ]]
+    elif [[ $MAFIA_REPO == "DEADLY-OP-BOT" ]]
     then
         echo "aHR0cHM6Ly9naXRodWIuY29tL3NhbWVlcnBhbnRoaS9kZWFkbHktb3AtdXNlcmJvdC9hcmNoaXZlL21hc3Rlci56aXA=" | base64 -d
-    elif [[ $DEADLY_REPO =~ $regex ]]
+    elif [[ $MAFIA_REPO =~ $regex ]]
     then
-        if [[ $DEADLY_REPO_BRANCH ]]
+        if [[ $MAFIA_REPO_BRANCH ]]
         then
-            echo "${DEADLY_REPO}/archive/${DEADLY_REPO_BRANCH}.zip"
+            echo "${MAFIA_REPO}/archive/${MAFIA_REPO_BRANCH}.zip"
         else
-            echo "${DEADLY_REPO}/archive/master.zip"
+            echo "${MAFIA_REPO}/archive/master.zip"
         fi
     else
         echo "aHR0cHM6Ly9naXRodWIuY29tL3NhbWVlcnBhbnRoaS9kZWFkbHktb3AtdXNlcmJvdC9hcmNoaXZlL21hc3Rlci56aXA=" | base64 -d
