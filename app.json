@@ -33,8 +33,8 @@
       "required": false
     },
     "ALIVE_PIC": {
-      "description": "Put here any telegraph media link for alive pic in .awake command.",
-      "value": "https://telegra.ph/file/46c68096ae54ebd061859.jpg",
+      "description": "Put here any telegraph media link for alive pic in .alive and .awake command. Leave blank for default pic.",
+      "value": "https://telegra.ph/file/f992c4914b446609b431a.jpg",
       "required": false
     },
     "BIO_MSG": {
