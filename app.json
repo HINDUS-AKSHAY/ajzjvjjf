@@ -39,7 +39,7 @@
     },
     "BIO_MSG": {
       "description": "Put Your Telegram Bio Here Required For Auto Bio.",
-      "value": "😈LEGEND'S SAY'S TO DEADLY BOT😈",
+      "value": "😈ᒪᗴᘜᗴᑎᗪᖇY ᗩᖴ ᗪᗴᗩᗪᒪY ᗷOT😈",
       "required": false
     },
     "PMPERMIT_PIC": {
@@ -167,7 +167,7 @@
       "value": "ENABLE",
       "required": false 
     }
-  },
+  },                 
   "addons": [
     {
       "plan": "heroku-postgresql",
