@@ -27,17 +27,17 @@ OTᕼᗴᖇ ᗷOTՏ . ᗩᒪՏO ᗯITᕼ ՏᗴᑕᑌᖇITY ᖴᗴᗩTᑌᖇᗴՏ
 
 ---------------
 
-### Creator 
--『[丂卂爪乇乇尺](https://t.me/OFFICIAL_SAMEER)』
-
----------------
-
 ## Telegram 🏪
 
 - [![SUPPORT GROUP](https://img.shields.io/badge/SUPPORT-GROUP-blue)](https://t.me/DEADLY_USERBOT)
 - [![SUPPORT CHANNEL](https://img.shields.io/badge/SUPPORT-CHANNEL-blue)](https://t.me/DEADLY_TECHY)
 
 -------------------------------------------------
+
+### Creator 
+-『[丂卂爪乇乇尺](https://t.me/OFFICIAL_SAMEER)』
+
+---------------
 
 ## Deploy 🚀
 
