@@ -26,23 +26,23 @@ OTᕼᗴᖇ ᗷOTՏ . ᗩᒪՏO ᗯITᕼ ՏᗴᑕᑌᖇITY ᖴᗴᗩTᑌᖇᗴՏ
 
 ## 
 -------------------------------------------------
-## Creator
+## Cʀᴇᴀᴛᴏʀ
 - 『[丂卂爪乇乇尺](https://t.me/OFFICIAL_SAMEER)』
 
 ----
-## Telegram 🏪
+## Tᴇʟᴇɢʀᴀᴍ 🏪
 
 - [![SUPPORT GROUP](https://img.shields.io/badge/SUPPORT-GROUP-blue)](https://t.me/DEADLY_USERBOT)
 - [![SUPPORT CHANNEL](https://img.shields.io/badge/SUPPORT-CHANNEL-blue)](https://t.me/DEADLY_TECHY)
 
 -------------------------------------------------
 
-## Deploy 🚀
+## Dᴇᴘʟᴏʏ 🚀
 
 [![Deploy](https://telegra.ph/file/259e04a1d6591c6e1e944.jpg)](https://heroku.com/deploy?template=https://github.com/sameerpanthi/DEADLY-OP-BOT)
 
 ------------------------------------------------
-## REPL 🔥
+## Rᴇᴘʟ 🔥
 - Open Repl Link.
 - Click on Green Play Button.
 - Wait for requirements to finish.
