@@ -24,22 +24,22 @@
 
 ------
 
-## Tᴇʟᴇɢʀᴀᴍ 🏪
+## 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠 🏪
 - [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/DEADLY_USERBOT)
 - [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/DEADLY_TECHY)
 
 -------------------------------------------------
 
-## Cʀᴇᴀᴛᴏʀ -[丂卂爪乇乇尺](https://t.me/OFFICIAL_SAMEER)
+## 𝗖𝗥𝗘𝗔𝗧𝗢𝗥 -[丂卂爪乇乇尺](https://t.me/OFFICIAL_SAMEER)
 
 -------------------------------------------------
 
-## Dᴇᴘʟᴏʏ 🚀
+## 𝗗𝗘𝗣𝗟𝗢𝗬 🚀
 
 [![Deploy](https://telegra.ph/file/259e04a1d6591c6e1e944.jpg)](https://heroku.com/deploy?template=https://github.com/sameerpanthi/DEADLY-OP-BOT)
 
 ------------------------------------------------
-## Rᴇᴘʟ 🔥
+## 𝗥𝗘𝗣𝗟 🔥
 - Open Repl Link.
 - Click on Green Play Button.
 - Wait for requirements to finish.
