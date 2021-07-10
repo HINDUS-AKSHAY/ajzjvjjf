@@ -31,10 +31,10 @@
 
 ---------------
 
-## Telegram :
+## Support :
 
-- [![SUPPORT GROUP](https://img.shields.io/badge/SUPPORT-GROUP-blue)](https://t.me/DEADLY_USERBOT)
-- [![SUPPORT CHANNEL](https://img.shields.io/badge/SUPPORT-CHANNEL-blue)](https://t.me/DEADLY_TECHY)
+- <a href="https://t.me/deadly_userbot"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
+- <a href="https://t.me/deadly_techy"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
 
 -------------------------------------------------
 
