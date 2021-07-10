@@ -5,7 +5,7 @@
   <img src="https://telegra.ph/file/fbb41395fd0feab088922.jpg" alt="The-PANTHERS BOT">
 </p>
 
-
+𝐁𝐄𝐒𝐓 𝐀𝐍𝐃 𝐌𝐎𝐒𝐓 𝐀𝐖𝐀𝐈𝐓𝐄𝐃 𝐔𝐒𝐄𝐑𝐁𝐎𝐓 𝐓𝐎 𝐌𝐀𝐍𝐀𝐆𝐄𝐑 𝐔𝐑 𝐀𝐂𝐂𝐎𝐔𝐍𝐓 𝐄𝐀𝐒𝐈𝐋𝐘..
 ----------
 
 ## Status Of This Bot
