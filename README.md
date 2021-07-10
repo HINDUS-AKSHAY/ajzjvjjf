@@ -24,14 +24,13 @@
 
 ------
 
+## Creator: [丂卂爪乇乇尺](https://t.me/OFFICIAL_SAMEER)
+
+-------------------------------------------------
 ## Telegram 🏪
 
 - [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/DEADLY_USERBOT)
 - [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/DEADLY_TECHY)
-
--------------------------------------------------
-
-## Creator: [丂卂爪乇乇尺](https://t.me/OFFICIAL_SAMEER)
 
 -------------------------------------------------
 
