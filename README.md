@@ -25,7 +25,7 @@
 
 ------
 
-## Creator 💝
+## Creator 
 
 - [『丂卂爪乇乇尺](https://t.me/OFFICIAL_SAMEER)』
 
