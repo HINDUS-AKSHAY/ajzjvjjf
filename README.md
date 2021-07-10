@@ -25,13 +25,13 @@
 
 ------
 
-## Creator :
+## Creator 🤗
 
  [『丂卂爪乇乇尺](https://t.me/OFFICIAL_SAMEER)』
 
 ---------------
 
-## Telegram :
+## Telegram 😎
 
 - [![SUPPORT GROUP](https://img.shields.io/badge/SUPPORT-GROUP-blue)](https://t.me/DEADLY_USERBOT)
 - [![SUPPORT CHANNEL](https://img.shields.io/badge/SUPPORT-CHANNEL-blue)](https://t.me/DEADLY_TECHY)
