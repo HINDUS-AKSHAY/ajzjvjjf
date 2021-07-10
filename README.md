@@ -28,8 +28,8 @@
 ----
 ## Telegram 🏪
 
-- [![SUPPORT GROUP](https://img.shields.io/badge/SUPPORT-GROUP-purple)](https://t.me/DEADLY_USERBOT)
-- [![SUPPORT CHANNEL](https://img.shields.io/badge/SUPPORT-CHANNEL-red)](https://t.me/DEADLY_TECHY)
+- [![SUPPORT GROUP](https://img.shields.io/badge/SUPPORT-GROUP-pink)](https://t.me/DEADLY_USERBOT)
+- [![SUPPORT CHANNEL](https://img.shields.io/badge/SUPPORT-CHANNEL-black)](https://t.me/DEADLY_TECHY)
 
 -------------------------------------------------
 
