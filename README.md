@@ -2,7 +2,7 @@
 <b>𝐃𝐄𝐀𝐃𝐋𝐘 𝐔𝐒𝐄𝐑𝐁𝐎𝐓 {🇮🇳}</b>
 </h1>
 <img src="https://telegra.ph/file/fbb41395fd0feab088922.jpg">
-
+                             
 -------------------------------------------------
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/f7c51539e67b483bb8d7749acca51d3a)](https://app.codacy.com/gh/sameerpanthi/deadly-op-bot?utm_source=github.com&utm_medium=referral&utm_content=sameerpanthi/deadly-op-bot&utm_campaign=Badge_Grade_Settings)
@@ -26,7 +26,8 @@ OTᕼᗴᖇ ᗷOTՏ . ᗩᒪՏO ᗯITᕼ ՏᗴᑕᑌᖇITY ᖴᗴᗩTᑌᖇᗴՏ
 
 ## 
 -------------------------------------------------
-## _______ Creator _______ ##[丂卂爪乇乇尺](https://t.me/OFFICIAL_SAMEER)
+## _______ Creator _______ 
+## [丂卂爪乇乇尺](https://t.me/OFFICIAL_SAMEER)
 ----
 ## Telegram 🏪
 
