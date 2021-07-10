@@ -8,9 +8,9 @@
 
 -----
 
-## Status Of Bot :
+## Status Of Bot 
 
-<p align="left"><a href="https://github.com/sameerpanthi/deadly-op-bot/network/members"><img src="https://img.shields.io/github/forks/sameerpanthi/deadly-op-bot?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/sameerpanthi/deadly-op-bot/stargazers"><img src="https://img.shields.io/github/stars/sameerpanthi/deadly-op-bot?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/sameerpanthi/deadly-op-bot"></a><p align="left"><a href="https://github.com/sameerpanthi/deadly-op-bot?"></
+align="left"><a href="https://github.com/sameerpanthi/deadly-op-bot/network/members"><img src="https://img.shields.io/github/forks/sameerpanthi/deadly-op-bot?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/sameerpanthi/deadly-op-bot/stargazers"><img src="https://img.shields.io/github/stars/sameerpanthi/deadly-op-bot?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/sameerpanthi/deadly-op-bot"></a><p align="left"><a href="https://github.com/sameerpanthi/deadly-op-bot?"></
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/f7c51539e67b483bb8d7749acca51d3a)](https://app.codacy.com/gh/sameerpanthi/deadly-op-bot?utm_source=github.com&utm_medium=referral&utm_content=sameerpanthi/deadly-op-bot&utm_campaign=Badge_Grade_Settings)
 [![Size](https://img.shields.io/github/repo-size/sameerpanthi/deadly-op-bot?style=flat-square&color=green)](https://github.com/sameerpanthi/deadly-op-bot/)   
