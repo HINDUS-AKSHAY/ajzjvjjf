@@ -15,9 +15,11 @@
 [![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/sameerpanthi/deadly-op-bot/blob/main/LICENSE)
 
 ------
+
 ~ ᗷᗴՏT ᗩᑎᗪ ᗰOՏT ᗩᗯᗩITᗴᗪ ᑌՏᗴᖇᗷOT TO ᗰᗩᑎᗩᘜᗴ ᑌᖇ ᗩᑕᑕ.
 ᗯITᕼ ᒪᑌ᙭ᑌᖇIOᑌՏ ᖴᗴᗩTᑌᖇᗴՏ ᑕOᗰᑭᗩᖇᗴᗪ TO ᗩᑎY 
 OTᕼᗴᖇ ᗷOTՏ . ᗩᒪՏO ᗯITᕼ ՏᗴᑕᑌᖇITY ᖴᗴᗩTᑌᖇᗴՏ
+
 ----------
 
 ## Status Of This Bot
@@ -26,9 +28,10 @@ OTᕼᗴᖇ ᗷOTՏ . ᗩᒪՏO ᗯITᕼ ՏᗴᑕᑌᖇITY ᖴᗴᗩTᑌᖇᗴՏ
 ---------------
 
 ### Creator 
-- 『[丂卂爪乇乇尺](https://t.me/OFFICIAL_SAMEER)』
+-『[丂卂爪乇乇尺](https://t.me/OFFICIAL_SAMEER)』
 
 ---------------
+
 ## Telegram 🏪
 
 - [![SUPPORT GROUP](https://img.shields.io/badge/SUPPORT-GROUP-blue)](https://t.me/DEADLY_USERBOT)
