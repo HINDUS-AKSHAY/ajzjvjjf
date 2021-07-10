@@ -23,23 +23,23 @@
 
 ------
 
-## Creator : [『SAMEER](https://t.me/OFFICIAL_SAMEER)』
+## 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 : [『𝚂𝙰𝙼𝙴𝙴𝚁』](https://t.me/OFFICIAL_SAMEER)
 
 ---------------
 
-## Support :
+## 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 :
 
 - <a href="https://t.me/deadly_userbot"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
 - <a href="https://t.me/deadly_techy"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
 
 -------------------------------------------------
 
-## Deploy 🚀
+## 𝙳𝙴𝙿𝙻𝙾𝚈  🚀
 
 [![Deploy](https://telegra.ph/file/259e04a1d6591c6e1e944.jpg)](https://heroku.com/deploy?template=https://github.com/sameerpanthi/DEADLY-OP-BOT)
 
 ------------------------------------------------
-## Repl :
+## 𝚁𝙴𝙿𝙻 :
 
 - Open Repl Link.
 - Click on Green Play Button.
@@ -52,7 +52,7 @@
 [![repl](https://telegra.ph/file/04d4cbe689f236a66411f.jpg)](https://replit.com/@sameerpanthi/DEADLY-FIGHTERS-BOT#main.py)
     
 -------------------------------------------------
-## Variables :
+## 𝚅𝙰𝚁𝙸𝙰𝙱𝙻𝙴𝚂 :
 
 - `APP_ID`  =  Get this value from my.telegram.org
 - `API_HASH`  =  Get this value from my.telegram.org
@@ -61,7 +61,7 @@
 - `BOT_TOKEN`  =  Make A Bot From [@BotFather](https://t.me/botfather) and paste it's token.
 - `BOT_USERNAME`  =  Get the username of that Bot made from [@Botfather](https://t.me/botfather)
 ------------
-## DISCLAIMER
+## 𝙳𝙸𝚂𝙲𝙻𝙰𝙸𝙼𝙴𝚁 
 
 
 - We won't be responsible for any kind of ban due to this bot.
