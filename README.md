@@ -19,27 +19,28 @@
 
 ----------
 
-## 𝗦𝗧𝗔𝗧𝗨𝗦 𝗢𝗙 𝗧𝗛𝗜𝗦 𝗕𝗢𝗧
+## STATUS OF THIS BOT
 <p align="left"><a href="https://github.com/sameerpanthi/deadly-op-bot/network/members"><img src="https://img.shields.io/github/forks/sameerpanthi/deadly-op-bot?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/sameerpanthi/deadly-op-bot/stargazers"><img src="https://img.shields.io/github/stars/sameerpanthi/deadly-op-bot?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/sameerpanthi/deadly-op-bot"></a><p align="left"><a href="https://github.com/sameerpanthi/deadly-op-bot?"><img src="https://img.shields.io/github/last-commit/sameerpanthi/deadly-op-bot?style=plastic"></
 
 ------
 
-## 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠 🏪
+### TELEGRAM 🏪
+
 - [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/DEADLY_USERBOT)
 - [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/DEADLY_TECHY)
 
 -------------------------------------------------
 
-## 𝗖𝗥𝗘𝗔𝗧𝗢𝗥 -[丂卂爪乇乇尺](https://t.me/OFFICIAL_SAMEER)
+## CREATOR -[丂卂爪乇乇尺](https://t.me/OFFICIAL_SAMEER)
 
 -------------------------------------------------
 
-## 𝗗𝗘𝗣𝗟𝗢𝗬 🚀
+## DEPLOY 🚀
 
 [![Deploy](https://telegra.ph/file/259e04a1d6591c6e1e944.jpg)](https://heroku.com/deploy?template=https://github.com/sameerpanthi/DEADLY-OP-BOT)
 
 ------------------------------------------------
-## 𝗥𝗘𝗣𝗟 🔥
+## REPL 🔥
 - Open Repl Link.
 - Click on Green Play Button.
 - Wait for requirements to finish.
@@ -51,7 +52,7 @@
 [![repl](https://telegra.ph/file/04d4cbe689f236a66411f.jpg)](https://replit.com/@sameerpanthi/DEADLY-FIGHTERS-BOT#main.py)
     
 -------------------------------------------------
-## Vᴀʀɪᴀʙʟᴇs 🙎‍♂️
+## VARIABLES 🙎‍♂️
 
 - `APP_ID`  =  Get this value from my.telegram.org
 - `API_HASH`  =  Get this value from my.telegram.org
@@ -60,7 +61,7 @@
 - `BOT_TOKEN`  =  Make A Bot From [@BotFather](https://t.me/botfather) and paste it's token.
 - `BOT_USERNAME`  =  Get the username of that Bot made from [@Botfather](https://t.me/botfather)
 ------------
-## Dɪsᴄʟᴀɪᴍʙᴇʀ
+## DISCLAIMER
 - We won't be responsible for any kind of ban due to this bot.
 - DeadlyBot was made for fun purpose and to make group management easier.
 - It's your concern if you spam and gets your account banned.
