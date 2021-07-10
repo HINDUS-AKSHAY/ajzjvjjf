@@ -26,7 +26,7 @@
 
 ## Creator :
 
- [『丂卂爪乇乇尺](https://t.me/OFFICIAL_SAMEER)』
+- [『丂卂爪乇乇尺](https://t.me/OFFICIAL_SAMEER)』
 
 ---------------
 
