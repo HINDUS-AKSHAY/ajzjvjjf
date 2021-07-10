@@ -33,7 +33,7 @@
 ## Support :
 
 - <a href="https://t.me/deadly_userbot"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-blue.svg?logo=Telegram"></a>
-- <a href="https://t.me/deadly_techy"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
+- <a href="https://t.me/deadly_techy"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-blue.svg?logo=Telegram"></a>
 
 -------------------------------------------------
 
