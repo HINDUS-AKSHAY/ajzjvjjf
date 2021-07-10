@@ -19,23 +19,23 @@
 
 ----------
 
-## STATUS OF THIS BOT
+## Status Of This Bot
 <p align="left"><a href="https://github.com/sameerpanthi/deadly-op-bot/network/members"><img src="https://img.shields.io/github/forks/sameerpanthi/deadly-op-bot?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/sameerpanthi/deadly-op-bot/stargazers"><img src="https://img.shields.io/github/stars/sameerpanthi/deadly-op-bot?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/sameerpanthi/deadly-op-bot"></a><p align="left"><a href="https://github.com/sameerpanthi/deadly-op-bot?"></
 
 ------
 
-## TELEGRAM 🏪
+## Telegram 🏪
 
 - [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/DEADLY_USERBOT)
 - [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/DEADLY_TECHY)
 
 -------------------------------------------------
 
-## CREATOR -[丂卂爪乇乇尺](https://t.me/OFFICIAL_SAMEER)
+## Creator: [丂卂爪乇乇尺](https://t.me/OFFICIAL_SAMEER)
 
 -------------------------------------------------
 
-## DEPLOY 🚀
+## Deploy 🚀
 
 [![Deploy](https://telegra.ph/file/259e04a1d6591c6e1e944.jpg)](https://heroku.com/deploy?template=https://github.com/sameerpanthi/DEADLY-OP-BOT)
 
