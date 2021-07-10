@@ -15,7 +15,7 @@
 [![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/sameerpanthi/deadly-op-bot/blob/main/LICENSE)
 
 
-~ 𝙱𝙴𝚂𝚃 𝙰𝙽𝙳 𝙼𝙾𝚂𝚃 𝙰𝚆𝙰𝙸𝚃𝙴𝙳 𝚄𝚂𝙴𝚁𝙱𝙾𝚃 𝚃𝙾 𝙼𝙰𝙽𝙰𝙶𝙴 𝚈𝙾𝚄𝚁 𝙰𝙲𝙲𝙾𝚄𝙽𝚃 𝚆𝙸𝚃𝙷 𝙻𝚄𝚇𝚄𝚁𝙸𝙾𝚄𝚂 𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂 𝙲𝙾𝙼𝙿𝙰𝚁𝙴𝙳 𝚃𝙾 𝙰𝙽𝚈 𝙾𝚃𝙷𝙴𝚁 𝙱𝙾𝚃𝚂..𝙰𝙻𝚂𝙾 𝚆𝙸𝚃𝙷 𝚂𝙴𝙲𝚄𝚁𝚄𝚃𝚈 𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂
+𝙱𝙴𝚂𝚃 𝙰𝙽𝙳 𝙼𝙾𝚂𝚃 𝙰𝚆𝙰𝙸𝚃𝙴𝙳 𝚄𝚂𝙴𝚁𝙱𝙾𝚃 𝚃𝙾 𝙼𝙰𝙽𝙰𝙶𝙴 𝚈𝙾𝚄𝚁 𝙰𝙲𝙲𝙾𝚄𝙽𝚃 𝚆𝙸𝚃𝙷 𝙻𝚄𝚇𝚄𝚁𝙸𝙾𝚄𝚂 𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂 𝙲𝙾𝙼𝙿𝙰𝚁𝙴𝙳 𝚃𝙾 𝙰𝙽𝚈 𝙾𝚃𝙷𝙴𝚁 𝙱𝙾𝚃𝚂..𝙰𝙻𝚂𝙾 𝚆𝙸𝚃𝙷 𝚂𝙴𝙲𝚄𝚁𝚄𝚃𝚈 𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂
 ----
 
 ## 𝚂𝚃𝙰𝚃𝚄𝚂 𝙾𝙵 𝚃𝙷𝙸𝚂 𝙱𝙾𝚃 
@@ -30,17 +30,16 @@
 
 -------------------------------------------------
 
-## 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 -[𝚂𝙰𝙼𝙴𝙴𝚁](https://t.me/SAMEER_795)
+## 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 -[𝚂𝙰𝙼𝙴𝙴𝚁](https://t.me/OFFICIAL_SAMEER)
 
 -------------------------------------------------
 
 ## 𝙳𝙴𝙿𝙻𝙾𝚈
 
-
 <a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fsameerpanthi%2FSAVAGE-SPAM-BOT&template=https%3A%2F%2Fgithub.com%2Fsameerpanthi%2FSAVAGE-SPAM-BOT" rel="nofollow" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"><img alt="Deploy" data-canonical-src="https://www.herokucdn.com/deploy/button.svg" src="https://camo.githubusercontent.com/83b0e95b38892b49184e07ad572c94c8038323fb/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667" style="border-style: none; box-sizing: initial; max-width: 100%;" /></a></div>
 
 ------------------------------------------------
-### Repl
+### 𝚁𝙴𝙿𝙻
 - Open Repl Link.
 - Click on Green Play Button.
 - Wait for requirements to finish.
