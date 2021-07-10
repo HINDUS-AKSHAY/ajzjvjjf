@@ -48,7 +48,7 @@
 - If You have Enabled 2-Step Verification then fill your password.
 - Your PANTHERS Bot Session Will be saved in your Telegram Saved Message.
 
-[![REPL][https://telegra.ph/file/04d4cbe689f236a66411f.jpg](https://replit.com/@sameerpanthi/DEADLY-FIGHTERS-BOT#main.py)
+[![https://telegra.ph/file/04d4cbe689f236a66411f.jpg](https://replit.com/@sameerpanthi/DEADLY-FIGHTERS-BOT#main.py)
     
 -------------------------------------------------
 ## Variables
