@@ -26,7 +26,7 @@ OTᕼᗴᖇ ᗷOTՏ . ᗩᒪՏO ᗯITᕼ ՏᗴᑕᑌᖇITY ᖴᗴᗩTᑌᖇᗴՏ
 
 ## 
 -------------------------------------------------
-## ___ Creator ___ [丂卂爪乇乇尺](https://t.me/OFFICIAL_SAMEER)
+## _____ Creator _____ [丂卂爪乇乇尺](https://t.me/OFFICIAL_SAMEER)
 ----
 ## Telegram 🏪
 
