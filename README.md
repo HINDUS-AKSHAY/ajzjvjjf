@@ -18,7 +18,7 @@
 𝙱𝙴𝚂𝚃 𝙰𝙽𝙳 𝙼𝙾𝚂𝚃 𝙰𝚆𝙰𝙸𝚃𝙴𝙳 𝚄𝚂𝙴𝚁𝙱𝙾𝚃 𝚃𝙾 𝙼𝙰𝙽𝙰𝙶𝙴 𝚈𝙾𝚄𝚁 𝙰𝙲𝙲𝙾𝚄𝙽𝚃 𝚆𝙸𝚃𝙷 𝙻𝚄𝚇𝚄𝚁𝙸𝙾𝚄𝚂 𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂 𝙲𝙾𝙼𝙿𝙰𝚁𝙴𝙳 𝚃𝙾 𝙰𝙽𝚈 𝙾𝚃𝙷𝙴𝚁 𝙱𝙾𝚃𝚂..𝙰𝙻𝚂𝙾 𝚆𝙸𝚃𝙷 𝚂𝙴𝙲𝚄𝚁𝚄𝚃𝚈 𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂
 ----
 
-## 𝚂𝚃𝙰𝚃𝚄𝚂 𝙾𝙵 𝚃𝙷𝙸𝚂 𝙱𝙾𝚃 😁
+## 𝚂𝚃𝙰𝚃𝚄𝚂 𝙾𝙵 𝚃𝙷𝙸𝚂 𝙱𝙾𝚃 
 <p align="left"><a href="https://github.com/sameerpanthi/deadly-op-bot/network/members"><img src="https://img.shields.io/github/forks/sameerpanthi/deadly-op-bot?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/sameerpanthi/deadly-op-bot/stargazers"><img src="https://img.shields.io/github/stars/sameerpanthi/deadly-op-bot?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/sameerpanthi/deadly-op-bot"></a><p align="left"><a href="https://github.com/sameerpanthi/deadly-op-bot?"><img src="https://img.shields.io/github/last-commit/sameerpanthi/deadly-op-bot?style=plastic"></
 
 -------------------------------------------------
