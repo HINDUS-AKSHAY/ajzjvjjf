@@ -34,9 +34,10 @@
 
 -------------------------------------------------
 
-## 𝙳𝙴𝙿𝙻𝙾𝚈
+## 𝙳𝙴𝙿𝙻𝙾𝚈 🚀
 
-<a href="[https://telegra.ph/file/259e04a1d6591c6e1e944.jpg](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fsameerpanthi%2FSAVAGE-SPAM-BOT&template=https%3A%2F%2Fgithub.com%2Fsameerpanthi%2FSAVAGE-SPAM-BOT)"
+- [![Deploy](https://telegra.ph/file/259e04a1d6591c6e1e944.jpg)](https://heroku.com/deploy?template=https://github.com/sameerpanthi/DEADLY-OP-BOT)
+
 ------------------------------------------------
 ### 𝚁𝙴𝙿𝙻
 - Open Repl Link.
