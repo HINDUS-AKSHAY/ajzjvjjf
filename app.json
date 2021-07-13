@@ -27,11 +27,7 @@
       "value": "@Deadly_userbot",
       "required": false
     },
-     "EMOJI_IN_HELP": {
-      "description": "A emoji to display in .help command",
-      "value": "🔹"
-    }, 
-     "ALIVE_MSG": {
+    "ALIVE_MSG": {
       "description": "Set Custom Alive Message When entering .awake Command.",
       "value": "🔥 #𝙳𝙴𝙰𝙳𝙻𝚈_𝙸𝚂_𝙾𝙽_𝙵𝙸𝚁𝙴_𝚂𝙰𝙰𝚁 🔥",
       "required": false
@@ -156,9 +152,9 @@
       "value": "2",
       "required": true
     },
-    "EMOJI_TO_DISPLAY_IN_HELP": {
+    "EMOJI_IN_HELP": {
       "description": "Set The emojies You Want to Add In Help Command!!",
-      "value": "🤖",
+      "value": "🔹",
       "required": false
     }, 
     "TZ": {
