@@ -47,6 +47,11 @@
       "value": "https://telegra.ph/file/fbb41395fd0feab088922.jpg",
       "required": false
     },
+    "INSTANT BLOCK": {
+      "description": "Instant Block When anyone Pm u",
+      "value": "DISABLE",
+      "required": false
+    },
     "CUSTOM_PMPERMIT": {
       "description": "Enter Your custom pm permit msg.",
       "value": "PLEASE DO NOT SPAM MY DM, I WILL REPLY YOU AFTER COME BACK ONLINE!",
