@@ -30,7 +30,7 @@
 ## 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 :
 
 - <a href="https://t.me/HINDUS_USERBOT"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
-- <a href="https://t.me/deadly_techy"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
+- <a href="https://t.me/HINDUS_USERBOT"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
 
 -------------------------------------------------
 
