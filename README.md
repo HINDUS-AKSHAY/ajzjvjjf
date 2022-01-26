@@ -36,7 +36,7 @@
 
 ## 𝙳𝙴𝙿𝙻𝙾𝚈  🚀
 
-[![Deploy](https://telegra.ph/file/259e04a1d6591c6e1e944.jpg)](https://heroku.com/deploy?template=https://github.com/DEADLY-FIGHTERS/DEADLY-OP-BOT)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Psycho-cracker/HINDUS-USERBOT/blob/master/README.md)
 
 ------------------------------------------------
 ## 𝚁𝙴𝙿𝙻 :
