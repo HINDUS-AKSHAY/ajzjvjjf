@@ -1,5 +1,5 @@
 <h1 align="center">
-<b𝙃𝙄𝙉𝘿𝙐𝙎 𝙐𝙎𝙀𝙍𝘽𝙊𝙏 {🇮🇳}</b>
+<b 𝙃𝙄𝙉𝘿𝙐𝙎 𝙐𝙎𝙀𝙍𝘽𝙊𝙏 {🇮🇳}</b>
 </h1>
 <p align="center">
   <img src="https://telegra.ph/file/4430f845d8bd47c4f156e.jpg" alt="The-PANTHERS BOT">
