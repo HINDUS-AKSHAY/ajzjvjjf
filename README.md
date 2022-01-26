@@ -36,7 +36,7 @@
 
 ## 𝙳𝙴𝙿𝙻𝙾𝚈  🚀
 
-- [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Psycho-cracker/HINDUS-USERBOT/blob/master/README.md)
+- [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Psycho-cracker/HINDUS-USERBOT)
 
 ------------------------------------------------
 ## 𝚁𝙴𝙿𝙻 :
