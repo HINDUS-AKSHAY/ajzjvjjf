@@ -36,7 +36,7 @@
 
 ## 𝙳𝙴𝙿𝙻𝙾𝚈  🚀
 
-- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Psycho-cracker/DEADLY-USERBOT-OP)
+- [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DEADLY-FIGHTERS/DEADLY-OP-BOT)
 
 ------------------------------------------------
 ## 𝚁𝙴𝙿𝙻 :
