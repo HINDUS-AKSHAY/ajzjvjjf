@@ -1,5 +1,5 @@
 <h1 align="center">
-<b>𝐃𝐄𝐀𝐃𝐋𝐘 𝐔𝐒𝐄𝐑𝐁𝐎𝐓 {🇮🇳}</b>
+<b HINDUS USERBOT {🇮🇳}</b>
 </h1>
 <p align="center">
   <img src="https://telegra.ph/file/fbb41395fd0feab088922.jpg" alt="The-PANTHERS BOT">
