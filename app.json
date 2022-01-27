@@ -23,8 +23,8 @@
       "required": false
     },
     "ALIVE_NAME": {
-      "description": "Fill your Full name or Username like @official_sameer. ",
-      "value": "@deadly_userbot",
+      "description": "Fill your Full name or Username like @HINDUS_AKSHAY. ",
+      "value": "@HINDUS_USERBOT",
       "required": false
     },
     "ALIVE_MSG": {
