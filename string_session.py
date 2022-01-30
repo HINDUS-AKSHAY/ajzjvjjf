@@ -2,8 +2,8 @@ from telethon.sessions import StringSession
 from telethon.sync import TelegramClient
 
 print("")
-print("""Welcome To Deadly USERBOT String Session\nGenerator By @SAMEER_795\n\n""")
-print("""LETS GET STARTED\n\n""")
+print("""Welcome To DeadlyBot String Session\nGenerator By @SAMEER_795\n\n""")
+print("""LET'S GET START\n\n""")
 print("""Enter Your Valid Details To Continue!\n\n """)
 
 API_KEY = input("API_ID:  ")
@@ -19,16 +19,16 @@ while True:
             session = client.session.save()
             client.send_message(
                 "me",
-                f"Here is your TELEGRAM STRING SESSION\n(Tap to copy it)👇 \n\n `{session}` \n\n And Visit @DEADLY_USERBOT For Any Help!\n\n",
+                f"Here is your TELEGRAM STRING SESSION\n(Tap to copy it)👇 \n\n `{session}` \n\n And Visit @Deadly_userbot For Any Help!\n\n",
             )
 
             print(
-                "Thanks for Choosing DEADLY Userbot Have A Good Time....Note That When You Terminate the Old Session ComeBack And Genrate A New String Session Old One Wont Work"
+                "Thanks for Choosing DeadlyBot Have A Good Time....Note That When You Terminate the Old Session ComeBack And Genrate A New String Session Old One Wont Work"
             )
     except:
         print("")
         print(
-            "Wrong phone number \n make sure its with correct country code. Example : +918925534834! Kindly Retry"
+            "Wrong phone number \n make sure its with correct country code. Example : +918983734834! Kindly Retry"
         )
         print("")
         continue
